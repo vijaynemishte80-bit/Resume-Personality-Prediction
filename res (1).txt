@@ -1,0 +1,21 @@
+John Doe
+Email: john.doe@example.com
+Phone: +91-9876543210
+
+Objective:
+Experienced software developer with strong skills in Python, 
+machine learning, data analysis, and cloud computing. 
+Looking for a challenging role in data science and AI projects.
+
+Education:
+B.Tech in Computer Science, XYZ University, 2023
+
+Experience:
+Software Developer Intern at ABC Technologies (2022)
+- Developed Python scripts for data cleaning and analysis.
+- Implemented machine learning models to predict sales trends.
+- Collaborated with team on web scraping and visualization projects.
+
+Skills:
+Python, Pandas, NumPy, Scikit-learn, TensorFlow, SQL, Git
+Communication, Teamwork, Problem-solving
